@@ -33,7 +33,7 @@ Stay tuned!
 
 ## 📫 Contact Me
 
-* GitHub: https://SamirBasnet-123
+* GitHub: https://github.com/SamirBasnet-123
 
 ---
 
