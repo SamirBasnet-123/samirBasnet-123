@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Samir Basnet
 
-<!--
-**SamirBasnet-123/samirBasnet-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Learning Web Development
 
-Here are some ideas to get you started:
+I am currently learning and improving my skills in web development.
+My focus is on building a strong foundation in both front-end and back-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills I Am Learning
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🐘 PHP
+
+---
+
+## 📚 About Me
+
+* 💡 Passionate about learning new technologies
+* 📈 Improving my coding skills every day
+* 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🔧 Projects
+
+I will be uploading my practice projects and real-world applications here.
+Stay tuned!
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/your-username
+
+---
+
+## ⭐ Motto
+
+> "Learn, Practice, Improve, Repeat."
