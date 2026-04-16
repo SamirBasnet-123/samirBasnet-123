@@ -37,6 +37,6 @@ Stay tuned!
 
 ---
 
-## ⭐ Motto
+## ⭐ my Motto is
 
 > "Learn, Practice, Improve, Repeat."
